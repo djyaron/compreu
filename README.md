@@ -19,9 +19,19 @@ David Yaron   | fac | david.yaron1
 Projects
 ===========
 
-* Scientific data management (Kai, Laura)  Automated systems to manage project data 
-* Graphene with integrated nitrogen atoms (Matt, Eric)
-* Metal-ligand complexes for MRI contrast agents (Rafael, Chris)
-* Nanoparticles (Bo, Haichen)
-* Fluorescent dyes for bioimaging (Steve, Matteus)
+* [Prov][prov] Scientific data management (Kai, Laura)  Automated systems to manage project data 
+* [Ngr][ngr] Graphene with integrated nitrogen atoms (Matt, Eric)
+* [Mri][mri] Metal-ligand complexes for MRI contrast agents (Rafael, Chris)
+* [Nano][nano] Nanoparticles (Bo, Haichen)
+* [Mgt][mgt] Fluorescent dyes for bioimaging (Steve, Matteus)
 
+
+[prov]: https://github.com/djyaron/compreu/wiki/prov
+
+[ngr]: https://github.com/djyaron/compreu/wiki/ngr
+
+[mri]: https://github.com/djyaron/compreu/wiki/mri
+
+[nano]: https://github.com/djyaron/compreu/wiki/nano
+
+[mgt]: https://github.com/djyaron/compreu/wiki/mgt
