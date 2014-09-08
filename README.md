@@ -25,9 +25,9 @@ Projects
 * [Mgt][mgt] Fluorescent dyes for bioimaging (Steve, Matteus)
 
 
-[prov]: https://github.com/djyaron/compreu/wiki/prov
+[prov]: https://github.com/kcg12/prov
 
-[ngr]: https://github.com/djyaron/compreu/wiki/ngr
+[ngr]: https://github.com/matthewkovacs/compreu
 
 [mri]: https://github.com/djyaron/compreu/wiki/mri
 
