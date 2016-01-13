@@ -26,9 +26,9 @@ Projects
 * [Mgt][mgt] Fluorescent dyes for bioimaging (Steve, Matteus)
 
 
-[quamboML] https://github.com/djyaron/quamboML
+[quamboML]: https://github.com/djyaron/quamboML
 
-[msqc] https://github.com/djyaron/master_MSQC
+[msqc]: https://github.com/djyaron/master_MSQC
 
 [qcmat]: https://github.com/djyaron/qcmatlab
 
